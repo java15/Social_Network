@@ -1,0 +1,19 @@
+﻿@using Social_Network.Resources
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeadSection
+{
+    @RenderSection("HeadSection", false)
+}
+<div id="mainMenu">
+    <ul>
+        <li>@Html.ActionLink(CommonResources.Menu_Home, "Index", "Home")</li>
+    </ul>
+</div>
+<div id="mainContent">
+    @RenderBody()
+</div>
+
+<div></div>

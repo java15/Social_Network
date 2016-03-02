@@ -1,0 +1,11 @@
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Social_Network.Data.MigrateApp.exe.config
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Social_Network.Data.MigrateApp.exe
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Social_Network.Data.MigrateApp.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Migrator.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Migrator.Framework.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Migrator.Providers.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Social_Network.Data.Migrations.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\bin\Debug\Social_Network.Data.Migrations.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\obj\Debug\Social_Network.Data.MigrateApp.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\obj\Debug\Social_Network.Data.MigrateApp.exe
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.MigrateApp\obj\Debug\Social_Network.Data.MigrateApp.pdb

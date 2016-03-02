@@ -1,0 +1,12 @@
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\Social_Network.Core.dll.config
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\Social_Network.Core.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\Social_Network.Core.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\EntityFramework.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\EntityFramework.xml
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\obj\Debug\Social_Network.Core.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\obj\Debug\Social_Network.Core.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Core\obj\Debug\Social_Network.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\bin\Debug\Social_Network.Data.Migrations.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\bin\Debug\Social_Network.Data.Migrations.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\bin\Debug\Migrator.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\bin\Debug\Migrator.Framework.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\bin\Debug\Migrator.Providers.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\obj\Debug\Social_Network.Data.Migrations.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\obj\Debug\Social_Network.Data.Migrations.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data.Migrations\obj\Debug\Social_Network.Data.Migrations.pdb

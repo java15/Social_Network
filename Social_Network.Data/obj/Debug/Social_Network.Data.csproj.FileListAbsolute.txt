@@ -1,0 +1,14 @@
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\Social_Network.Data.dll.config
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\Social_Network.Data.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\Social_Network.Data.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\EntityFramework.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\Social_Network.Core.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\Social_Network.Core.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\EntityFramework.xml
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\obj\Debug\Social_Network.Data.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\obj\Debug\Social_Network.Data.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\obj\Debug\Social_Network.Data.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Data\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

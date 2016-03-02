@@ -1,0 +1,8 @@
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\bin\Debug\Social_Network.Resources.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\bin\Debug\Social_Network.Resources.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.AccountResources.resources
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.csproj.GenerateResource.Cache
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.dll
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.pdb
+C:\Users\java\Desktop\Social_Network_Git\Social_Network.Resources\obj\Debug\Social_Network.Resources.CommonResources.resources

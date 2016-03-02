@@ -1,0 +1,44 @@
+﻿@using Social_Network.Resources
+@model Social_Network.Web.Models.Account.LogOnModel
+
+@{
+    ViewBag.Title = AccountResources.LogOn_Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb20">@AccountResources.LogOn_Title</h2>
+
+<div class="info">
+    Для входа на сайт воспользуйтесь формой входа
+    или перейдите на @Html.ActionLink("форму регистрации", "Register", "Account")
+</div>
+
+@using (Html.BeginForm())
+{
+    <fieldset class="form">
+        
+        <div class="field">
+            <div class="legend short">@AccountResources.Common_Login_Name:</div>
+            @Html.TextBoxFor(m => m.Login, new {@class = "text"})
+            @Html.ValidationMessageFor(m => m.Login)
+        </div>
+
+        <div class="field">
+            <div class="legend short">@AccountResources.Common_Password_Name:</div>
+            @Html.PasswordFor(m => m.Password, new {@class = "text"})
+            @Html.ValidationMessageFor(m => m.Password)
+        </div>
+
+        @Html.HiddenFor(m => m.ReturnUrl)
+
+        <div class="mt10 mb10">
+            @Html.ValidationSummary(true)
+        </div>
+        
+        <div class="submit">
+            <input type="submit" value="@AccountResources.LogOn_Button" class="mt10 button" />
+        </div>        
+        
+    </fieldset>
+}
+

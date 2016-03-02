@@ -1,0 +1,44 @@
+﻿@using Social_Network.Resources
+@model Social_Network.Web.Models.Account.RegisterModel
+
+
+@{
+    ViewBag.Title = AccountResources.Register_Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@AccountResources.Register_Title</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <div>
+            <div>@AccountResources.Common_Login_Name:</div>
+            @Html.TextBoxFor(m => m.Login, new {@class = "text"})
+            @Html.ValidationMessageFor(m => m.Login)
+        </div>
+
+        <div>
+            <div>@AccountResources.Common_Password_Name:</div>
+            @Html.PasswordFor(m => m.Password, new {@class = "text"})
+            @Html.ValidationMessageFor(m => m.Password)
+        </div>
+
+        <div>
+            <div>@AccountResources.Common_ConfirmPassword_Name:</div>
+            @Html.PasswordFor(m => m.ConfirmPassword, new {@class = "text"})
+            @Html.ValidationMessageFor(m => m.ConfirmPassword)
+        </div>
+
+        @Html.HiddenFor(m => m.ReturnUrl)
+
+        <div>
+            @Html.ValidationSummary(true)
+        </div>
+        
+        <div>
+            <input type="submit" value="@AccountResources.Register_Button"/>
+        </div>
+        
+    </fieldset>
+}
